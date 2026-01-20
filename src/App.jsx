@@ -8,7 +8,6 @@ import LoginPage from './LoginPage';
 import DatePage from './DatePage';
 import TimePage from './TimePage';
 import CalculatorPage from './CalculatorPage'; // Import the CalculatorPage component
-import './styles.css';
 
 function App() {
   return (
