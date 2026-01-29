@@ -1,21 +1,21 @@
-# Design System: 13-react-vercel-starter
+# Design System: 45-starter-react-vercel
 
 ## Visual Philosophy
-The design follows a **Premium SaaS / Cloud-Native** aesthetic. It uses a clean white base with deep Indigo-600 accents, focusing on massive typography and spacious layouts to convey a sense of "speed of thought."
+The design follows a **Black & White Minimal** aesthetic. Pure monochromatic palette with deep blacks and crisp whites, focusing on typography and generous whitespace to convey clarity and purpose.
 
 ## Design Patterns
--   **Fluid Layouts**: Use of large (4rem+) border radii for sections and buttons to create a soft, friendly but professional feel.
--   **Glassmorphic Nav**: Fixed header with high-blur backdrops for a modern layered experience.
--   **Noise Gradients**: Subtle grain filters on primary CTA sections to provide spatial depth.
--   **Vibrant Indigo**: Primary color theme focusing on indigo-600 with slate-900 typography.
+- **Minimal Layouts**: Clean sections with large whitespace
+- **Monochromatic Palette**: Only black (#000000) and white (#ffffff)
+- **Subtle Borders**: Thin black borders (1-2px) at 10-20% opacity
+- **No Color Accents**: Pure black and white only
 
 ## Color Palette
--   **Canvas**: White (#ffffff)
--   **Primary Action**: Indigo-600 (#4f46e5)
--   **Technical Text**: Slate-900 (#0f172a)
--   **Subtle Details**: Slate-400/500 (#94a3b8)
+- **Canvas**: White (#ffffff)
+- **Text Primary**: Black (#000000)
+- **Text Secondary**: Black at 50% opacity
+- **Borders**: Black at 10-20% opacity
 
 ## Interaction Design
--   **Hover States**: Active scaling (95%) on buttons for tactile feedback.
--   **Reveal Animations**: Section-based "whileInView" triggers from Framer Motion.
--   **Smooth Navigation**: Internal anchors with CSS smooth scrolling pre-configured.
+- **Hover States**: Opacity transitions on buttons
+- **Reveal Animations**: Section-based "whileInView" triggers from Framer Motion
+- **Smooth Navigation**: Internal anchors with CSS smooth scrolling pre-configured

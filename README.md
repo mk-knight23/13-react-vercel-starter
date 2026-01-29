@@ -1,16 +1,18 @@
-# 13-react-vercel-starter
+# 45-starter-react-vercel
 
-✨ A premium foundation for high-performance React applications. Engineered for seamless Vercel integration, featuring sophisticated architectural patterns and modern visual systems.
+**Theme: Black & White Minimal**
+
+A premium foundation for high-performance React applications. Engineered for seamless Vercel integration, featuring sophisticated architectural patterns and a monochromatic minimalist design system.
 
 ## Features
 - 🚀 High-Performance React Starter
-- 🎨 Modern Visual Design System
+- ⚫ Black & White Minimal Design System
 - 📱 Fully Responsive & Accessibility Focused
-- ⚛️ Engineered with React 18
+- ⚛️ Engineered with React 19
 - ⚡ Lightning-Fast Compilation via Vite 6
 
 ## Tech Stack
-- **Frontend**: React 18, Tailwind CSS v4
+- **Frontend**: React 19, Tailwind CSS v4
 - **Build Tool**: Vite 6
 - **Icons**: Lucide React
 - **Animations**: Framer Motion
@@ -26,18 +28,13 @@ npm run dev
 - [Design System](docs/DESIGN.md)
 - [Deployment Guide](docs/DEPLOY.md)
 
-## Live Deployment
-- **GitHub Pages**: [https://mk-knight23.github.io/13-react-vercel-starter/](https://mk-knight23.github.io/13-react-vercel-starter/)
-- **Status**: 🟢 Live
-- **Modernized**: 2026-01-23
+## Theme Identity
+This starter uses a **Black & White Minimal** aesthetic:
+- Pure black (#000000) and white (#ffffff) color palette
+- No color accents - purely monochromatic
+- Clean typography with generous whitespace
+- Subtle animations and smooth transitions
 
 ---
+
 *Maintained by [Kazi Musharraf](https://github.com/mk-knight23)*
-
-## 🌐 Live Deployments
-
-- Vercel: https://13-react-vercel-starter.vercel.app
-- GitHub Pages: https://mk-knight23.github.io/13-react-vercel-starter/
-
-Status: 🟢 Deployments Live  
-Last Updated: 2026-01-23
